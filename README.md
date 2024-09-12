@@ -15,4 +15,4 @@ I'm still working out a few kinks with the weekly email.
 
 Please note that some parts of the code such as API keys are hidden to protect myself
 as well as my loyal customers' personal information. This is simply a personal project 
-I've been working on in my free time in order to get some real world coding expperience.
+I've been working on in my free time in order to get some real world coding experience.
